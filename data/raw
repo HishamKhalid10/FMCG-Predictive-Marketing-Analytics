@@ -1,0 +1,11 @@
+1. Demand Forecasting & Seasonal Retail Inventory Dataset:
+   Source Link: [https://www.kaggle.com/datasets/hishamkhalidbushaar/sales-data-with-dates](https://www.kaggle.com/datasets/hishamkhalidbushaar/sales-data-with-dates)
+   Context: This dataset provides the comprehensive sales history with structured calendar timestamps used to map operational trends, isolate category variations (`FOODS`, `HOUSEHOLD`, `HOBBIES`), and optimize inventory management.
+
+2. Global Advertising Performance Dataset (Google, Meta, TikTok):
+   Source Link:[https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok](https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok)
+   Context: This multi-channel advertising performance matrix links dynamic budget shifts directly to real operational conversions, impressions, and clicks—providing the pipeline for the multi-variable Random Forest pricing simulators.
+
+3. Olist Brazilian E-Commerce Transactional Dataset:
+   Source Link: [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+   Context: A highly granular, multi-table e-commerce database mapping customer details, order lifecycles, and actual payment structures. This dataset serves as the base for building the strict 120-day customer segmentation models.
